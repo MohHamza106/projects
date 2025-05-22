@@ -1,0 +1,3524 @@
+{
+  "Version": 1,
+  "Hash": "sYlaZX9UR9R4Tj7Qbp7ORELn45Cis/18eB7N4V8oF+o=",
+  "Source": "project1 structure mvc",
+  "BasePath": "_content/project1 structure mvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "project1 structure mvc\\wwwroot",
+      "Source": "project1 structure mvc",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\css\\site.css",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u1ho7t2c19",
+      "Integrity": "rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\js\\site.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wt9wvylme1",
+      "Integrity": "PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s35ty4nyc5",
+      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pj5nd1wqec",
+      "Integrity": "KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46ein0sx1k",
+      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0zj4ognzu",
+      "Integrity": "8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "510k07mx1i",
+      "Integrity": "KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD+Wo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s280hffjut",
+      "Integrity": "5CXGTo6nPBsk1764PcL+WmBO8PKmdmnosN+QdgzKGB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rhjzfs45jd",
+      "Integrity": "byxeH4ijXx4rxyUyXk4rO6gVInGL5+UAUDf4e3GElLA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uqhivaqf4x",
+      "Integrity": "qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s+bEKpYeQlJKs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z4giugmkw0",
+      "Integrity": "zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5wl60yermk",
+      "Integrity": "VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hncdx5t4mz",
+      "Integrity": "s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfyfhdxh97",
+      "Integrity": "8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gubp6m86i6",
+      "Integrity": "OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n8vnnjo5j0",
+      "Integrity": "52Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6cfz1n2cew",
+      "Integrity": "mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pdc2jztkx",
+      "Integrity": "Wq4aWW1rQdJ+6oAgy1JQc9IBjHL9T3MKfXTBNqOv02c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "493y06b0oq",
+      "Integrity": "CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iovd86k7lj",
+      "Integrity": "Xj4HYxZBQ7qqHKBwa2EAugRS+RHWzpcTtI49vgezUSU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "63fj8s7r0e",
+      "Integrity": "3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0z8svh5ihv",
+      "Integrity": "lLDThBjJ+0y9JupbwpBCzgjWupKc5tU+Tv8PS2QB0to=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nari7624fc",
+      "Integrity": "r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zo5purt89w",
+      "Integrity": "7RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i4lj1bxi5k",
+      "Integrity": "TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rpoqg9oml",
+      "Integrity": "X8J9hbFtHugzjlD0bTOyuZ56HYFnkH+aqsFL4hgI6T8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "abbf9ej8v4",
+      "Integrity": "BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5+4WG61BUM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7vueng739h",
+      "Integrity": "w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i2mrzprh0p",
+      "Integrity": "ep/rujHKM+sn+fo9xDSDQxcffsPDuiHNEixlIKSBYbM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4xaf7nvfb1",
+      "Integrity": "CLjq+rccN8E2QTT0qfP8LTFdenVdPXnTi+FNQ+Ri+M0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8kekns2cqo",
+      "Integrity": "SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0z1um1b29w",
+      "Integrity": "hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aoyfsirkoh",
+      "Integrity": "SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "project1 structure mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\",
+      "BasePath": "_content/project1 structure mvc",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lk58khhkyn",
+      "Integrity": "y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.u1ho7t2c19.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1ho7t2c19"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.wt9wvylme1.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wt9wvylme1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.css.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.css.pj5nd1wqec.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pj5nd1wqec"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.css.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.css.v0zj4ognzu.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0zj4ognzu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.s35ty4nyc5.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s35ty4nyc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.510k07mx1i.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD+Wo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "510k07mx1i"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD+Wo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD+Wo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD+Wo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CXGTo6nPBsk1764PcL+WmBO8PKmdmnosN+QdgzKGB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CXGTo6nPBsk1764PcL+WmBO8PKmdmnosN+QdgzKGB8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.s280hffjut.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CXGTo6nPBsk1764PcL+WmBO8PKmdmnosN+QdgzKGB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s280hffjut"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CXGTo6nPBsk1764PcL+WmBO8PKmdmnosN+QdgzKGB8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"byxeH4ijXx4rxyUyXk4rO6gVInGL5+UAUDf4e3GElLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-byxeH4ijXx4rxyUyXk4rO6gVInGL5+UAUDf4e3GElLA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s+bEKpYeQlJKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s+bEKpYeQlJKs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.uqhivaqf4x.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s+bEKpYeQlJKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqhivaqf4x"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s+bEKpYeQlJKs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.rhjzfs45jd.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"byxeH4ijXx4rxyUyXk4rO6gVInGL5+UAUDf4e3GElLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rhjzfs45jd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-byxeH4ijXx4rxyUyXk4rO6gVInGL5+UAUDf4e3GElLA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.5wl60yermk.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wl60yermk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.kfyfhdxh97.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfyfhdxh97"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.hncdx5t4mz.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hncdx5t4mz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.z4giugmkw0.css",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z4giugmkw0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.gubp6m86i6.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gubp6m86i6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"52Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-52Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.n8vnnjo5j0.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"52Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n8vnnjo5j0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-52Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.6cfz1n2cew.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6cfz1n2cew"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.bundle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.js.6pdc2jztkx.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wq4aWW1rQdJ+6oAgy1JQc9IBjHL9T3MKfXTBNqOv02c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pdc2jztkx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.bundle.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wq4aWW1rQdJ+6oAgy1JQc9IBjHL9T3MKfXTBNqOv02c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.js.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wq4aWW1rQdJ+6oAgy1JQc9IBjHL9T3MKfXTBNqOv02c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wq4aWW1rQdJ+6oAgy1JQc9IBjHL9T3MKfXTBNqOv02c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.493y06b0oq.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "493y06b0oq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.js.iovd86k7lj.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xj4HYxZBQ7qqHKBwa2EAugRS+RHWzpcTtI49vgezUSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iovd86k7lj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.bundle.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xj4HYxZBQ7qqHKBwa2EAugRS+RHWzpcTtI49vgezUSU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xj4HYxZBQ7qqHKBwa2EAugRS+RHWzpcTtI49vgezUSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xj4HYxZBQ7qqHKBwa2EAugRS+RHWzpcTtI49vgezUSU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.63fj8s7r0e.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "63fj8s7r0e"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 00:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lLDThBjJ+0y9JupbwpBCzgjWupKc5tU+Tv8PS2QB0to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lLDThBjJ+0y9JupbwpBCzgjWupKc5tU+Tv8PS2QB0to="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE.0z8svh5ihv",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lLDThBjJ+0y9JupbwpBCzgjWupKc5tU+Tv8PS2QB0to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0z8svh5ihv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lLDThBjJ+0y9JupbwpBCzgjWupKc5tU+Tv8PS2QB0to="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.i4lj1bxi5k.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i4lj1bxi5k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.zo5purt89w.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zo5purt89w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.nari7624fc.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nari7624fc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.3rpoqg9oml.txt",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X8J9hbFtHugzjlD0bTOyuZ56HYFnkH+aqsFL4hgI6T8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rpoqg9oml"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X8J9hbFtHugzjlD0bTOyuZ56HYFnkH+aqsFL4hgI6T8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X8J9hbFtHugzjlD0bTOyuZ56HYFnkH+aqsFL4hgI6T8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X8J9hbFtHugzjlD0bTOyuZ56HYFnkH+aqsFL4hgI6T8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.abbf9ej8v4.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5+4WG61BUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "abbf9ej8v4"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5+4WG61BUM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5+4WG61BUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5+4WG61BUM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.7vueng739h.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7vueng739h"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.i2mrzprh0p.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ep/rujHKM+sn+fo9xDSDQxcffsPDuiHNEixlIKSBYbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i2mrzprh0p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ep/rujHKM+sn+fo9xDSDQxcffsPDuiHNEixlIKSBYbM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ep/rujHKM+sn+fo9xDSDQxcffsPDuiHNEixlIKSBYbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ep/rujHKM+sn+fo9xDSDQxcffsPDuiHNEixlIKSBYbM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.4xaf7nvfb1.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLjq+rccN8E2QTT0qfP8LTFdenVdPXnTi+FNQ+Ri+M0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4xaf7nvfb1"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CLjq+rccN8E2QTT0qfP8LTFdenVdPXnTi+FNQ+Ri+M0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLjq+rccN8E2QTT0qfP8LTFdenVdPXnTi+FNQ+Ri+M0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CLjq+rccN8E2QTT0qfP8LTFdenVdPXnTi+FNQ+Ri+M0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.8kekns2cqo.md",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8kekns2cqo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0z1um1b29w.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0z1um1b29w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.aoyfsirkoh.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aoyfsirkoh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.lk58khhkyn.txt",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lk58khhkyn"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "E:\\CS50\\.net\\project1 structure mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 22:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M="
+        }
+      ]
+    }
+  ]
+}

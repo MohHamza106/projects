@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS50\\.net\\mvc.persentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC0DEC7-4869-4EE3-B3FA-E19D5D52E5CC}|frist project mvc.persentation\\frist project mvc.persentation.csproj|e:\\cs50\\.net\\mvc.persentation\\frist project mvc.persentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC0DEC7-4869-4EE3-B3FA-E19D5D52E5CC}|frist project mvc.persentation\\frist project mvc.persentation.csproj|solutionrelative:frist project mvc.persentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC0DEC7-4869-4EE3-B3FA-E19D5D52E5CC}|frist project mvc.persentation\\frist project mvc.persentation.csproj|e:\\cs50\\.net\\mvc.persentation\\frist project mvc.persentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC0DEC7-4869-4EE3-B3FA-E19D5D52E5CC}|frist project mvc.persentation\\frist project mvc.persentation.csproj|solutionrelative:frist project mvc.persentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C683C6-5E79-4C46-8811-0D666318541F}|Data access\\Data access.csproj|e:\\cs50\\.net\\mvc.persentation\\data access\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C683C6-5E79-4C46-8811-0D666318541F}|Data access\\Data access.csproj|solutionrelative:data access\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\mvc.persentation\\Data access\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data access\\Models\\BaseEntity.cs",
+              "ToolTip": "E:\\CS50\\.net\\mvc.persentation\\Data access\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Data access\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:30:26.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\mvc.persentation\\frist project mvc.persentation\\Program.cs",
+              "RelativeDocumentMoniker": "frist project mvc.persentation\\Program.cs",
+              "ToolTip": "E:\\CS50\\.net\\mvc.persentation\\frist project mvc.persentation\\Program.cs",
+              "RelativeToolTip": "frist project mvc.persentation\\Program.cs",
+              "ViewState": "AgIAAAEAAADQKTMzMzMLwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:08:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\mvc.persentation\\frist project mvc.persentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "frist project mvc.persentation\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\CS50\\.net\\mvc.persentation\\frist project mvc.persentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "frist project mvc.persentation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:54:47.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

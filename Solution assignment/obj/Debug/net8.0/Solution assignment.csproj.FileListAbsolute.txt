@@ -1,0 +1,14 @@
+E:\CS50\.net\Solution assignment\bin\Debug\net8.0\Solution assignment.exe
+E:\CS50\.net\Solution assignment\bin\Debug\net8.0\Solution assignment.deps.json
+E:\CS50\.net\Solution assignment\bin\Debug\net8.0\Solution assignment.runtimeconfig.json
+E:\CS50\.net\Solution assignment\bin\Debug\net8.0\Solution assignment.dll
+E:\CS50\.net\Solution assignment\bin\Debug\net8.0\Solution assignment.pdb
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\Solution assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\Solution assignment.AssemblyInfoInputs.cache
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\Solution assignment.AssemblyInfo.cs
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\Solution assignment.csproj.CoreCompileInputs.cache
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\Solution assignment.dll
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\refint\Solution assignment.dll
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\Solution assignment.pdb
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\Solution assignment.genruntimeconfig.cache
+E:\CS50\.net\Solution assignment\obj\Debug\net8.0\ref\Solution assignment.dll

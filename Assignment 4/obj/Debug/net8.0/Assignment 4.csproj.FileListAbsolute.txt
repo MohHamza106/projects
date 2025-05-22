@@ -1,0 +1,14 @@
+E:\CS50\.net\Assignment 4\bin\Debug\net8.0\Assignment 4.exe
+E:\CS50\.net\Assignment 4\bin\Debug\net8.0\Assignment 4.deps.json
+E:\CS50\.net\Assignment 4\bin\Debug\net8.0\Assignment 4.runtimeconfig.json
+E:\CS50\.net\Assignment 4\bin\Debug\net8.0\Assignment 4.dll
+E:\CS50\.net\Assignment 4\bin\Debug\net8.0\Assignment 4.pdb
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\Assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\Assignment 4.AssemblyInfoInputs.cache
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\Assignment 4.AssemblyInfo.cs
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\Assignment 4.csproj.CoreCompileInputs.cache
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\Assignment 4.dll
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\refint\Assignment 4.dll
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\Assignment 4.pdb
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\Assignment 4.genruntimeconfig.cache
+E:\CS50\.net\Assignment 4\obj\Debug\net8.0\ref\Assignment 4.dll

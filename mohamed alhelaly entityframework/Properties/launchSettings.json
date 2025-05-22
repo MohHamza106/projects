@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "mohamed alhelaly entityframework": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

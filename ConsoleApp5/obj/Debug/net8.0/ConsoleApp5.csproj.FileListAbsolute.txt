@@ -1,0 +1,14 @@
+E:\CS50\.net\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.exe
+E:\CS50\.net\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.deps.json
+E:\CS50\.net\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.runtimeconfig.json
+E:\CS50\.net\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.dll
+E:\CS50\.net\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.pdb
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.dll
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\refint\ConsoleApp5.dll
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
+E:\CS50\.net\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll

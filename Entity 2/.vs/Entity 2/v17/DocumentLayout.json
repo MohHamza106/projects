@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS50\\.net\\Entity 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\migrations\\20250301100100_addinstructortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:migrations\\20250301100100_addinstructortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\model\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:model\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\model\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:model\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\entitycontext\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:entitycontext\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|e:\\cs50\\.net\\entity 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E2CE4D-EB7E-4C66-BF6D-6484727E2845}|Entity 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250301100100_AddInstructorTable.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\Migrations\\20250301100100_AddInstructorTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250301100100_AddInstructorTable.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\Migrations\\20250301100100_AddInstructorTable.cs",
+              "RelativeToolTip": "Migrations\\20250301100100_AddInstructorTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:01:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\model\\Topic.cs",
+              "RelativeDocumentMoniker": "model\\Topic.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\model\\Topic.cs",
+              "RelativeToolTip": "model\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:16:38.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\model\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "model\\Stud_Course.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\model\\Stud_Course.cs",
+              "RelativeToolTip": "model\\Stud_Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:15:25.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\model\\Instructor.cs",
+              "RelativeDocumentMoniker": "model\\Instructor.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\model\\Instructor.cs",
+              "RelativeToolTip": "model\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:10:13.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\model\\Department.cs",
+              "RelativeDocumentMoniker": "model\\Department.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\model\\Department.cs",
+              "RelativeToolTip": "model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:03:39.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyDbcontext.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\entityContext\\CompanyDbcontext.cs",
+              "RelativeDocumentMoniker": "entityContext\\CompanyDbcontext.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\entityContext\\CompanyDbcontext.cs",
+              "RelativeToolTip": "entityContext\\CompanyDbcontext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:11:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\model\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "model\\Course_Inst.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\model\\Course_Inst.cs",
+              "RelativeToolTip": "model\\Course_Inst.cs",
+              "ViewState": "AgIAAAIAAADAMjMzMzMrwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:07:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\model\\Course.cs",
+              "RelativeDocumentMoniker": "model\\Course.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\model\\Course.cs",
+              "RelativeToolTip": "model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:05:28.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\model\\Student.cs",
+              "RelativeDocumentMoniker": "model\\Student.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\model\\Student.cs",
+              "RelativeToolTip": "model\\Student.cs",
+              "ViewState": "AgIAAAMAAACAYGZmZmb2vw8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:08:25.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS50\\.net\\Entity 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CS50\\.net\\Entity 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:06:06.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
